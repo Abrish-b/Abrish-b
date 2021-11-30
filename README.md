@@ -1,4 +1,4 @@
-<img src="https://photos.app.goo.gl/urywBU7inU5uifw89" alt="Software Developer">
+<img src="https://ibb.co/PrgB5CW" alt="Software Developer">
 <h1 align="center">Hi 👋, I'm Abrham</h1>
 <h3 align="center">I am an Electrical Engineer and Junior full Stack Developer</h3>
 
