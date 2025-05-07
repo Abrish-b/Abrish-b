@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.ibb.co/VLTXvBC/limited-store-hours-8-AM-3-PM.png" alt="limited-store-hours-8-AM-3-PM" border="0"/></div>
+<div align="center"><img src="https://ik.imagekit.io/okhb6yivn/limited%20store%20hours%208%20AM%20-%203%20PM%20(1).png" border="0"/></div>
 <h1 align="center">Hi 👋, I'm Abrham</h1>
 <h3 align="center">I am an Electrical Engineer and Junior full Stack Developer</h3>
 
