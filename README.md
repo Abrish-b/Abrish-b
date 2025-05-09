@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/abrish_bu" target="blank"><img src="https://img.shields.io/twitter/follow/abrish_bu?logo=twitter&style=for-the-badge" alt="abrish_bu" /></a> </p>
 
-- 🌱 I’m currently learning at ALX **Front End Developer**
+- 🌱 I’m currently learning at ALX **Mid-level FullStack Developer**
+  
+- 🌐  Visit my portfolio website and see what I’ve been building! 🚀 [Protfolio](https://abrishcodes.netlify.app)
 
-- 💬 Ask me about **Python, Arduino, C, Bash, Javascript**
+- 💬 Ask me about **Python, Arduino, C, Bash, Javascript, React JS, Node JS, Next JS, Tailwind**
 
 - 📫 How to reach me **abrishbunaro@gmail.com**
 
@@ -32,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrish-b&show_icons=true&locale=en" alt="abrish-b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrish-b&" alt="abrish-b" /></p>
+<p><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=Abrish-b" /></p>
